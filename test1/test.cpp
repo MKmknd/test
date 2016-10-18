@@ -17,7 +17,7 @@ int main(void){
         std::sort(a, a+N);
 
         for(int i=0; i<N; i++){
-                std::cout << a[i] << "\n";
+                //std::cout << a[i] << "\n";
         }
 
         return 0;
